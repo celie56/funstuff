@@ -1,6 +1,6 @@
 console.log("Welcome Home");
 
-var input = "undefined"
+var input = "undefined";
 
 //helper function that returns the longest string of characters
 function longest_word(strings) {
